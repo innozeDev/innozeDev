@@ -33,7 +33,7 @@
 
 ## 🏢 About Innoze Dev
 
-**Innoze Dev** is the official development organization of **Innoze Tech Solutions** — a results-driven digital company building smart, scalable, and high-performance digital products for businesses worldwide.
+**Innoze Dev** is the official development organization of **Innoze** — a results-driven digital company building smart, scalable, and high-performance digital products for businesses worldwide.
 
 We are a dedicated team of developers, designers, AI engineers, and digital growth specialists who deliver **complete digital solutions** under one roof. Our clients range from **early-stage startups** launching their first MVP to **established businesses** scaling their digital presence.
 
