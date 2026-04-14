@@ -31,7 +31,7 @@
 
 ---
 
-## 🏢 About Innoze Dev
+## About Innoze Dev
 
 **Innoze Dev** is the official development organization of **Innoze** a results-driven digital company building smart, scalable, and high-performance digital products for businesses worldwide.
 
@@ -57,12 +57,12 @@ We are a dedicated team of developers, designers, AI engineers, and digital grow
 
 | Value | Statement |
 |:------|:----------|
-| 🎯 **Excellence** | We hold ourselves to the highest standard in everything we build |
-| 🤝 **Integrity** | We operate with full transparency — in communication, pricing, and delivery |
-| 💡 **Innovation** | We embrace emerging technologies to engineer future-ready solutions |
-| ⚡ **Agility** | We move fast, adapt quickly, and deliver without compromising quality |
-| 🌍 **Client-Centricity** | Every decision we make is driven by our client's success and growth |
-| 🔒 **Reliability** | Our commitments are our contracts — we deliver what we promise |
+|  **Excellence** | We hold ourselves to the highest standard in everything we build |
+|  **Integrity** | We operate with full transparency in communication, pricing, and delivery |
+|  **Innovation** | We embrace emerging technologies to engineer future-ready solutions |
+|  **Agility** | We move fast, adapt quickly, and deliver without compromising quality |
+|  **Client-Centricity** | Every decision we make is driven by our client's success and growth |
+|  **Reliability** | Our commitments are our contracts  we deliver what we promise |
 
 ---
 
@@ -72,12 +72,12 @@ We offer **end-to-end digital services** that cover everything your business nee
 
 | Service | What You Get |
 |:--------|:-------------|
-| 💻 **Software Development** | Custom web apps, SaaS platforms & business dashboards built to scale |
-| 📱 **Mobile App Development** | iOS & Android apps your users will actually love to use |
-| 🤖 **AI & Automation** | Smart workflows, intelligent chatbots & AI tools that save time & money |
-| 🎨 **UI/UX Design** | Clean, intuitive designs that convert visitors into loyal customers |
-| 📈 **SEO** | Rank higher on Google & drive real organic traffic to your business |
-| 🚀 **MVP for Startups** | Launch your idea fast with a lean, investor-ready product |
+|  **Software Development** | Custom web apps, SaaS platforms & business dashboards built to scale |
+|  **Mobile App Development** | iOS & Android apps your users will actually love to use |
+|  **AI & Automation** | Smart workflows, intelligent chatbots & AI tools that save time & money |
+|  **UI/UX Design** | Clean, intuitive designs that convert visitors into loyal customers |
+|  **SEO** | Rank higher on Google & drive real organic traffic to your business |
+|  **MVP for Startups** | Launch your idea fast with a lean, investor-ready product |
 
 ---
 
