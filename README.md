@@ -123,19 +123,6 @@ We offer **end-to-end digital services** that cover everything your business nee
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" style="height: 48px;" />
 </p>
 
-### 📋 Project Management & Collaboration
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=jira" style="height: 48px;" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="48" alt="Notion" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" height="48" alt="Slack" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" height="48" alt="Trello" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" height="48" alt="ClickUp" />
-</p>
-
 ---
 
 ## 🌟 Why Choose Innoze Dev?
