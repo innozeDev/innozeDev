@@ -1,5 +1,5 @@
 <!--
-  SEO KEYWORDS: Innoze, Innoze Dev, InnozeDev, Innoze Tech Solutions,
+  KEYWORDS: Innoze, Innoze Dev, InnozeDev, Innoze Tech Solutions,
   software development company Pakistan, mobile app development Pakistan,
   web development company, AI automation, UI UX design agency, SEO services Pakistan,
   MVP startup development, MERN stack developer, Flutter development, custom software Pakistan,
@@ -33,7 +33,7 @@
 
 ## 🏢 About Innoze Dev
 
-**Innoze Dev** is the official development organization of **Innoze** — a results-driven digital company building smart, scalable, and high-performance digital products for businesses worldwide.
+**Innoze Dev** is the official development organization of **Innoze** a results-driven digital company building smart, scalable, and high-performance digital products for businesses worldwide.
 
 We are a dedicated team of developers, designers, AI engineers, and digital growth specialists who deliver **complete digital solutions** under one roof. Our clients range from **early-stage startups** launching their first MVP to **established businesses** scaling their digital presence.
 
@@ -50,6 +50,19 @@ We are a dedicated team of developers, designers, AI engineers, and digital grow
 ## Our Vision
 
 *"To become the most trusted digital innovation partner across Pakistan and beyond — where every business, regardless of its technical background, can build, grow, and lead in the digital world."*
+
+---
+
+## Our Core Values
+
+| Value | Statement |
+|:------|:----------|
+| 🎯 **Excellence** | We hold ourselves to the highest standard in everything we build |
+| 🤝 **Integrity** | We operate with full transparency — in communication, pricing, and delivery |
+| 💡 **Innovation** | We embrace emerging technologies to engineer future-ready solutions |
+| ⚡ **Agility** | We move fast, adapt quickly, and deliver without compromising quality |
+| 🌍 **Client-Centricity** | Every decision we make is driven by our client's success and growth |
+| 🔒 **Reliability** | Our commitments are our contracts — we deliver what we promise |
 
 ---
 
