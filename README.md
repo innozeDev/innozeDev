@@ -56,7 +56,7 @@ We deliver **complete digital solutions** under one roof, from early-stage start
 > 👉 Visit our organization for full project details, tech stack, case studies and more:
 
 <p align="center">
-  <a href="https://github.com/innoze" target="_blank">
+  <a href="https://github.com/innozetech" target="_blank">
     <img src="https://img.shields.io/badge/🏢_Visit_Innoze_Organization-innoze-0EA5E9?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
