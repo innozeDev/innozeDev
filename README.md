@@ -125,7 +125,3 @@ Have a project idea or a business problem to solve? Whether it's a startup MVP, 
 </p>
 
 <br/>
-
-<p align="center">
-  <i>"Great software is not just written — it is engineered with purpose, precision, and passion."</i>
-</p>
