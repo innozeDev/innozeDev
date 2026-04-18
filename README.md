@@ -116,8 +116,6 @@ A modern e-commerce platform with user authentication, shopping cart, product fi
 ### 🚗 Car Rental Booking Platform
 A full-stack car rental system — browse, filter, and book vehicles, while owners manage listings, bookings, and revenue in one seamless platform.
 
-**Stack:** React · Node.js · Express.js · MongoDB · ImageKit · JWT · Tailwind CSS · Vite
-
 [![Live Demo](https://img.shields.io/badge/Live_Demo-View_Project-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://car-rental-frontend-fawn.vercel.app/)
 
 ---
